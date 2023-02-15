@@ -1,0 +1,15 @@
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBankFuncionarios\bin\Debug\net6.0\ByteBank_ADM.exe
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBankFuncionarios\bin\Debug\net6.0\ByteBank_ADM.deps.json
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBankFuncionarios\bin\Debug\net6.0\ByteBank_ADM.runtimeconfig.json
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBankFuncionarios\bin\Debug\net6.0\ByteBank_ADM.dll
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBankFuncionarios\bin\Debug\net6.0\ByteBank_ADM.pdb
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBankFuncionarios\obj\Debug\net6.0\ByteBank_ADM.csproj.AssemblyReference.cache
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBankFuncionarios\obj\Debug\net6.0\ByteBank_ADM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBankFuncionarios\obj\Debug\net6.0\ByteBank_ADM.AssemblyInfoInputs.cache
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBankFuncionarios\obj\Debug\net6.0\ByteBank_ADM.AssemblyInfo.cs
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBankFuncionarios\obj\Debug\net6.0\ByteBank_ADM.csproj.CoreCompileInputs.cache
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBankFuncionarios\obj\Debug\net6.0\ByteBank_ADM.dll
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBankFuncionarios\obj\Debug\net6.0\refint\ByteBank_ADM.dll
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBankFuncionarios\obj\Debug\net6.0\ByteBank_ADM.pdb
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBankFuncionarios\obj\Debug\net6.0\ByteBank_ADM.genruntimeconfig.cache
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBankFuncionarios\obj\Debug\net6.0\ref\ByteBank_ADM.dll

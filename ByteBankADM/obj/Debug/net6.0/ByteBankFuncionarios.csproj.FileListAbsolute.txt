@@ -1,0 +1,15 @@
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBankFuncionarios\bin\Debug\net6.0\ByteBankFuncionarios.exe
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBankFuncionarios\bin\Debug\net6.0\ByteBankFuncionarios.deps.json
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBankFuncionarios\bin\Debug\net6.0\ByteBankFuncionarios.runtimeconfig.json
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBankFuncionarios\bin\Debug\net6.0\ByteBankFuncionarios.dll
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBankFuncionarios\bin\Debug\net6.0\ByteBankFuncionarios.pdb
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBankFuncionarios\obj\Debug\net6.0\ByteBankFuncionarios.csproj.AssemblyReference.cache
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBankFuncionarios\obj\Debug\net6.0\ByteBankFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBankFuncionarios\obj\Debug\net6.0\ByteBankFuncionarios.AssemblyInfoInputs.cache
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBankFuncionarios\obj\Debug\net6.0\ByteBankFuncionarios.AssemblyInfo.cs
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBankFuncionarios\obj\Debug\net6.0\ByteBankFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBankFuncionarios\obj\Debug\net6.0\ByteBankFuncionarios.dll
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBankFuncionarios\obj\Debug\net6.0\refint\ByteBankFuncionarios.dll
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBankFuncionarios\obj\Debug\net6.0\ByteBankFuncionarios.pdb
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBankFuncionarios\obj\Debug\net6.0\ByteBankFuncionarios.genruntimeconfig.cache
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBankFuncionarios\obj\Debug\net6.0\ref\ByteBankFuncionarios.dll

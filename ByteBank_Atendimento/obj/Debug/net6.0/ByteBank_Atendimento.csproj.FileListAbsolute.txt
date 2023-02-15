@@ -1,0 +1,15 @@
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBank_Atendimento\obj\Debug\net6.0\ByteBank_Atendimento.csproj.AssemblyReference.cache
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBank_Atendimento\obj\Debug\net6.0\ByteBank_Atendimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBank_Atendimento\obj\Debug\net6.0\ByteBank_Atendimento.AssemblyInfoInputs.cache
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBank_Atendimento\obj\Debug\net6.0\ByteBank_Atendimento.AssemblyInfo.cs
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBank_Atendimento\obj\Debug\net6.0\ByteBank_Atendimento.csproj.CoreCompileInputs.cache
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBank_Atendimento\bin\Debug\net6.0\ByteBank_Atendimento.exe
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBank_Atendimento\bin\Debug\net6.0\ByteBank_Atendimento.deps.json
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBank_Atendimento\bin\Debug\net6.0\ByteBank_Atendimento.runtimeconfig.json
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBank_Atendimento\bin\Debug\net6.0\ByteBank_Atendimento.dll
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBank_Atendimento\bin\Debug\net6.0\ByteBank_Atendimento.pdb
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBank_Atendimento\obj\Debug\net6.0\ByteBank_Atendimento.dll
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBank_Atendimento\obj\Debug\net6.0\refint\ByteBank_Atendimento.dll
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBank_Atendimento\obj\Debug\net6.0\ByteBank_Atendimento.pdb
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBank_Atendimento\obj\Debug\net6.0\ByteBank_Atendimento.genruntimeconfig.cache
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBank_Atendimento\obj\Debug\net6.0\ref\ByteBank_Atendimento.dll

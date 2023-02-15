@@ -1,0 +1,15 @@
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBank\bin\Debug\net6.0\ByteBankContas.exe
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBank\bin\Debug\net6.0\ByteBankContas.deps.json
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBank\bin\Debug\net6.0\ByteBankContas.runtimeconfig.json
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBank\bin\Debug\net6.0\ByteBankContas.dll
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBank\bin\Debug\net6.0\ByteBankContas.pdb
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBank\obj\Debug\net6.0\ByteBankContas.csproj.AssemblyReference.cache
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBank\obj\Debug\net6.0\ByteBankContas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBank\obj\Debug\net6.0\ByteBankContas.AssemblyInfoInputs.cache
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBank\obj\Debug\net6.0\ByteBankContas.AssemblyInfo.cs
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBank\obj\Debug\net6.0\ByteBankContas.csproj.CoreCompileInputs.cache
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBank\obj\Debug\net6.0\ByteBankContas.dll
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBank\obj\Debug\net6.0\refint\ByteBankContas.dll
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBank\obj\Debug\net6.0\ByteBankContas.pdb
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBank\obj\Debug\net6.0\ByteBankContas.genruntimeconfig.cache
+C:\Users\Hexze\OneDrive\Área de Trabalho\Estudos T.I\Alura\Estudos CSharp\Aprendendo C#\ByteBank\ByteBank\obj\Debug\net6.0\ref\ByteBankContas.dll

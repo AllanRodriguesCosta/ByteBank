@@ -1,0 +1,399 @@
+Estas foram as linhas de codigos utilizadas no "Program.cs" durante a criação do projeto "ByeBank",
+porém eu transformei esses codigos em um arquivo de texto, para não poluir o Program do projeto,
+pois essas linhas foram feitas apenas para testar as funções e classes criadas, e após os testes
+elas atrapalhariam no desenvolvimento dos estudos. Então eu as trouxe para cá para não perder
+o processo de como foi o desenvolvimento e aprendizado no projeto.
+
+
+
+//Pedro e Roberta, primeira parte do módulo sobre herança e classes.
+#region 
+//Funcionario pedro = new Funcionario("123456789",2000);
+//pedro.Nome = "Pedro Silveira";
+
+//Console.WriteLine(pedro.Nome);
+//Console.WriteLine(pedro.GetBonificacao());
+
+//Diretor roberta = new Diretor("987654321");
+//roberta.Nome = "Roberta Dominguez";
+
+//Console.WriteLine(roberta.Nome);
+//Console.WriteLine(roberta.GetBonificacao());
+
+//GerenciadorDeBonificacao gerenciador = new GerenciadorDeBonificacao();
+//gerenciador.Registrar(pedro);
+//gerenciador.Registrar(roberta);
+
+//Console.WriteLine("Tootal de bonificações: "+gerenciador.TotalDeBonificacao);
+//Console.WriteLine("Tootal de Funcionários: " + Funcionario.TotalDeFuncionarios);
+
+//pedro.AumentarSalario();
+//roberta.AumentarSalario();
+
+//Console.WriteLine("Novo salário do Pedro: " + pedro.Salario);
+//Console.WriteLine("Novo salário da Roberta: " + roberta.Salario);
+#endregion
+
+
+
+// Calculo das Bonificações
+//CalcularBonificacao();
+
+//UsarSistema();
+
+/*
+void CalcularBonificacao()
+{
+    GerenciadorDeBonificacao gerenciador = new GerenciadorDeBonificacao();
+
+    // Novos funcionários
+
+    // paula - diretora
+    Diretor paula = new Diretor("321456987");
+    paula.Nome = "paula guimarães";
+
+    Console.WriteLine(paula.Nome);
+    Console.WriteLine(paula.GetBonificacao());
+
+    // carlos - auxiliar
+    Auxiliar carlos = new Auxiliar("321654987");
+    carlos.Nome = "carlos tavares";
+
+    Console.WriteLine(carlos.Nome);
+    Console.WriteLine(carlos.GetBonificacao());
+
+    // julia - designer
+    Designer julia = new Designer("123789456");
+    julia.Nome = "julia azevedo";
+
+    Console.WriteLine(julia.Nome);
+    Console.WriteLine(julia.GetBonificacao());
+
+    // matheus - gerente de contas
+    GerenteDeContas matheus = new GerenteDeContas("456789123");
+    matheus.Nome = "matheus rodrigues";
+
+    Console.WriteLine(matheus.Nome);
+    Console.WriteLine(matheus.GetBonificacao());
+
+
+    //Registro dos funcionários
+    #region
+    gerenciador.Registrar(paula);
+    gerenciador.Registrar(carlos);
+    gerenciador.Registrar(julia);
+    gerenciador.Registrar(matheus);
+    #endregion
+
+    // Soma total das bonificações
+    Console.WriteLine("Total de Bonificação = " + gerenciador.TotalDeBonificacao);
+
+}
+
+
+// Sistema interno de autenticação de login
+void UsarSistema()
+{
+    SistemaInterno sistema = new SistemaInterno();
+
+    Diretor ingrid = new Diretor("789654789");
+    ingrid.Nome = "Ingrid Teixeira";
+    ingrid.Usuario = "IngridTeixeira";
+    ingrid.Senha = "159951";
+
+    GerenteDeContas jorge = new GerenteDeContas("987987987");
+    jorge.Nome = "Jorge Campos";
+    jorge.Usuario = "JorgeCampos";
+    jorge.Senha = "987123";
+
+    ParceiroComercial fabricio = new ParceiroComercial();
+    fabricio.Usuario = "FabricioSantos";
+    fabricio.Senha = "123789";
+
+
+    sistema.Logar(ingrid, "IngridTeixeira", "159951");
+    sistema.Logar(jorge, "JorgeCampos", "987123");
+    sistema.Logar(fabricio, "FabricioSantos", "123789");
+}
+
+Diretor paula = new Diretor("321456987");
+paula.Nome = "paula guimarães";
+
+Console.WriteLine(paula);
+*/
+
+
+
+//Primeiro projeto de criação de contas
+
+//ContaCorrente contaDoAndre = new ContaCorrente();
+//contaDoAndre.titular = "André Silva";
+//contaDoAndre.numero_agencia = 15;
+//contaDoAndre.conta = "1010-X";
+//contaDoAndre.saldo = 100;
+
+//Console.WriteLine("Saldo da conta de André = "+contaDoAndre.saldo);
+
+//ContaCorrente contaDaMaria = new ContaCorrente();
+//contaDaMaria.titular = "Maria Souza";
+//contaDaMaria.numero_agencia = 17;
+//contaDaMaria.conta = "1010-5";
+//contaDaMaria.saldo = 350;
+
+//contaDaMaria.Depositar(300);
+
+//Console.WriteLine("Saldo da conta de Maria = " + contaDaMaria.saldo);
+
+//contaDoAndre.Transferir(50, contaDaMaria);
+//Console.WriteLine("Saldo de André = "+ contaDoAndre.saldo);
+//Console.WriteLine("Saldo de Maria = " + contaDaMaria.saldo);
+
+//ContaCorrente contaDoPedro = new ContaCorrente();
+//contaDoPedro.titular = "Pedro Silva";
+//Console.WriteLine(contaDoPedro.titular);
+//Console.WriteLine(contaDoPedro.saldo);
+//Console.WriteLine(contaDoPedro.numero_agencia);
+//Console.WriteLine(contaDoPedro.conta);
+
+//Cliente cliente = new Cliente();
+//cliente.nome = "André Silva";
+//cliente.cpf = "123456789";
+//cliente.profissao = "Analista";
+
+//ContaCorrente conta = new ContaCorrente();
+//conta.titular = cliente;
+//conta.conta = "1010-X";
+//conta.numero_agencia= 15;
+//conta.saldo = 100;
+
+//Console.WriteLine("Titular = "+conta.titular.nome);
+//Console.WriteLine("CPF = " + conta.titular.cpf);
+//Console.WriteLine("Profissão = " + conta.titular.profissao);
+//Console.WriteLine("N° Conta " + conta.conta);
+//Console.WriteLine("N° Agência " + conta.numero_agencia);
+//Console.WriteLine("Saldo " + conta.saldo);
+
+//ContaCorrente conta2 = new ContaCorrente();
+//conta2.titular = new Cliente();
+//conta2.titular.nome = "José Souza";
+//conta2.titular.profissao = "Tester";
+//conta2.titular.cpf = "987654321";
+//conta2.conta = "9999-X";
+//conta2.numero_agencia = 18;
+//conta2.saldo = 500;
+
+//Console.WriteLine(conta2.titular.nome);
+
+//ContaCorrente conta3 = new ContaCorrente();
+//conta3.Numero_Agencia = 23;
+//conta3.Conta = "1011-H";
+//conta3.SetSaldo(-10);
+//Console.WriteLine(conta3.GetSaldo());
+//Console.WriteLine(conta3.Numero_Agencia);
+//Console.WriteLine(conta3.Conta);
+
+//ContaCorrente conta4 = new ContaCorrente(18,"1010-X");
+//conta4.SetSaldo(500);
+//conta4.Titular = new Cliente();
+//Console.WriteLine(conta4.GetSaldo());
+//Console.WriteLine(conta4.Numero_Agencia);
+
+/*
+ContaCorrente conta5 = new ContaCorrente(283, "1234-X");
+
+ContaCorrente conta6 = new ContaCorrente(284, "9874-Z");
+
+ContaCorrente conta7 = new ContaCorrente(285, "9877-Z");
+
+Console.WriteLine("A quantidade total de contas criadas é: "+ContaCorrente.TotalDeContasCriadas);
+
+Console.WriteLine("O valor da taxa de operação é: "+ContaCorrente.TaxaOperacao);
+*/
+
+/*
+try 
+{
+    ContaCorrente conta1 = new ContaCorrente(278, "1234-X");
+    conta1.Sacar(50);
+    conta1.GetSaldo();
+    Console.WriteLine(conta1.GetSaldo());
+
+    conta1.Sacar(150);
+    conta1.GetSaldo();
+    Console.WriteLine(conta1.GetSaldo());
+}
+catch(ArgumentException ex)
+{
+    Console.WriteLine("Parâmetro com erro: " + ex.ParamName);
+    Console.WriteLine("Não é possível criar uma conta");
+    Console.WriteLine(ex.StackTrace);
+    Console.WriteLine(ex.Message);
+}
+catch(SaldoInsuficienteException ex)
+{
+    Console.WriteLine("Operação negada! Saldo insuficiente!");
+    Console.WriteLine(ex.Message);
+}
+*/
+
+
+/*
+LeitorDeArquivo leitor = new LeitorDeArquivo("contas.txt");
+
+try
+{
+
+    leitor.LerProximaLinha();
+    leitor.LerProximaLinha();
+
+}
+catch (IOException)
+{
+    Console.WriteLine("Leitura de arquivo interrompida!");
+}
+finally
+{
+    leitor.Fechar();
+}
+*/
+
+#region Exeplos Arrays em C# 
+//TestaArrayInt();
+void TestaArrayInt()
+{
+    int[] idades = new int[5];
+    idades[0] = 30;
+    idades[1] = 40;
+    idades[2] = 17;
+    idades[3] = 21;
+    idades[4] = 18;
+
+    Console.WriteLine($"Tamanho do Array {idades.Length}");
+
+    int acumulador = 0;
+    for ( int i = 0; i < idades.Length; i++)
+    {
+        int idade = idades[i];
+        Console.WriteLine($"Índice [{i}] = {idades[i]}");
+        acumulador += idade;
+    }
+
+    int media = (acumulador / idades.Length);
+
+    Console.WriteLine(acumulador);
+    Console.WriteLine($"Média de idades = {media}");
+
+
+    
+
+}
+
+//TestaBuscarPalavra();
+void  TestaBuscarPalavra()
+{
+    string[] arrayDePalavras = new string[5];
+
+    for (int i = 0; i < arrayDePalavras.Length; i++)
+    {
+        Console.Write($"Digite a {i+1}ª Palavra: ");
+        arrayDePalavras[i] = Console.ReadLine(); 
+    }
+
+    Console.WriteLine("Digite palavra a ser encontrada: ");
+    var busca = Console.ReadLine();
+
+    foreach (string palavra in arrayDePalavras)
+    {
+        if (palavra.Equals(busca))
+        {
+            Console.WriteLine($"Pàlavra encontrada = {busca}.");
+            break;
+        }
+        
+
+    }
+}
+
+#region
+Array amostra = Array.CreateInstance(typeof(double), 11);
+amostra.SetValue(5.9, 0);
+amostra.SetValue(1.8, 1);
+amostra.SetValue(7.1, 2);
+amostra.SetValue(10, 3);
+amostra.SetValue(6.9, 4);
+amostra.SetValue(3.9, 5);
+amostra.SetValue(15.8, 6);
+amostra.SetValue(23.1, 7);
+amostra.SetValue(12, 8);
+amostra.SetValue(3.9, 9);
+amostra.SetValue(7.5, 10);
+#endregion
+
+//TestaMediana(amostra);
+void TestaMediana (Array array)
+{
+    if((array == null)|| (array.Length==0))
+    {
+        Console.WriteLine("Array para cálculo da mediana está vazio ou nulo.");
+    }
+
+    double[] numerosOrdenados = (double [] )array.Clone();
+    Array.Sort(numerosOrdenados);
+    //[1,8][5,9][6,9][7,1][10]
+
+    int tamanho = numerosOrdenados.Length;
+    int meio = tamanho / 2;
+    double mediana = (tamanho % 2 != 0) ? numerosOrdenados[meio] :
+                                            (numerosOrdenados[meio] + numerosOrdenados[meio - 1]) / 2;
+    Console.WriteLine($"Com base na amostra a mediana é = {mediana}");
+}
+
+//TestaArrayDeContasCorrentes();
+void TestaArrayDeContasCorrentes()
+{
+
+    ListaDeContasCorrentes listaDeContas = new ListaDeContasCorrentes();
+    listaDeContas.Adicionar(new ContaCorrente(271, "123456789"));
+    listaDeContas.Adicionar(new ContaCorrente(834, "123654987"));
+    listaDeContas.Adicionar(new ContaCorrente(547, "123789456"));
+    listaDeContas.Adicionar(new ContaCorrente(271, "123456789"));
+    listaDeContas.Adicionar(new ContaCorrente(834, "123654987"));
+    listaDeContas.Adicionar(new ContaCorrente(547, "123789456"));
+    var contaDoAllan = new ContaCorrente(237, "123654789");
+    listaDeContas.Adicionar(contaDoAllan);
+    //listaDeContas.ExibeLista();
+    //Console.WriteLine("===============");
+    //listaDeContas.Remover(contaDoAllan);
+    //listaDeContas.ExibeLista();
+
+    for (int i = 0; i < listaDeContas.Tamanho; i++)
+    {
+        ContaCorrente conta = listaDeContas[i];
+        Console.WriteLine($"Indice[{i}] = {conta.Conta}/{conta.Numero_Agencia}");
+    }
+
+}
+#endregion  
+
+#region Exemplos de uso do List
+//List<ContaCorrente> _listaDeContas2 = new List<ContaCorrente>()
+//{
+//    new ContaCorrente (154, "123963987") {Saldo=100},
+//    new ContaCorrente (856, "123852147") {Saldo=5660},
+//    new ContaCorrente (29, "123147852") {Saldo=17}
+//};
+
+//List<ContaCorrente> _listaDeContas3 = new List<ContaCorrente>()
+//{
+//    new ContaCorrente (1451, "157963987") {Saldo=100},
+//    new ContaCorrente (658, "952852147") {Saldo=5660},
+//    new ContaCorrente (92, "259147852") {Saldo=17}
+//};
+
+//_listaDeContas2.AddRange(_listaDeContas3);
+
+//for (int i = 0; i < _listaDeContas2.Count; i++)
+//{
+//    Console.WriteLine($"Indice[{i}] = Conta [{_listaDeContas2[i].Conta}]");
+//}
+#endregion
